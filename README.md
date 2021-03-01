@@ -1,6 +1,5 @@
 # Spaced repetition API!
 
-Spaced Repetition
 This application was completed by George Luther as a capstone II project. The intent was to build out features based on test requirements for a language learning program. This uses a javascript implementation of a singly-linked-list to control the order words, thereby accomplishing the spaced repetition learning technique. Correctly answered words are displayed less frequently to maximize study time on words that need review.
 
 * Live version: https://spaced-repetition-app-one.vercel.app/
